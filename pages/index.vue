@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div style="padding:50px">
     <v-row justify="center" align="center">
       <v-col cols="12" sm="8" md="6">
         <div class="text-center">
@@ -14,14 +14,14 @@
             v-model="title"
             label="Paste URL"
             outlined
-            style="padding-right:20px"
+            style="padding-right:20px; padding-left:20px"
       ></v-text-field>
       <div class="text-left">
         <v-btn
           x-large
           rounded
           color="yellow"
-          style="padding-left:20px"
+          style="padding-right:20px; padding-left:20px"
         >
           Download Now
         </v-btn>
