@@ -80,6 +80,11 @@ export default {
       resp: {} 
     }
   },
+  head() {
+      return {
+        title: "Storyblocks Unofficial Downloader",
+      }
+  },
   methods: {
     getDownloadLink() {
       if(this.url == "") {
