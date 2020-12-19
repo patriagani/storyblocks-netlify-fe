@@ -1,4 +1,4 @@
-# storyblocks-netlify-fe
+# storyblocks-netlify-fe (frontend)
 
 ## Build Setup
 
