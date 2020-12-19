@@ -1,7 +1,4 @@
 # storyblocks-netlify-fe
-<<<<<<< HEAD
-storyblocks-netlify-fe
-=======
 
 ## Build Setup
 
@@ -21,4 +18,3 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
->>>>>>> initial commit
